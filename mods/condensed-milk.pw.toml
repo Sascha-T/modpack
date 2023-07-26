@@ -1,0 +1,13 @@
+name = "Create: Condensed Milk"
+filename = "condensedmilk-1.18.2_1.0r.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c4b65ee6187101f721bbbe157a806c632680f93b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3900853
+project-id = 650208

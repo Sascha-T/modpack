@@ -1,0 +1,13 @@
+name = "ChessMod"
+filename = "ChessMod-1.18.2-0.616.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c05da0f4ff3daca9c67ea6f600a94ce81f4aa310"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3821844
+project-id = 382151

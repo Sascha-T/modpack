@@ -11,3 +11,9 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3918566
 project-id = 546670
+
+
+[option]
+optional = true
+description = "Essentials mod for cosmetics and chat"
+default = false

@@ -1,6 +1,102 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "eeb4d4807142eaa55cf67ad7bd5b7bab5cf6c8739c23d4c5654875031afb7cfc"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "02d6feb3afe1d9c96e137f8baaa71de982f1af0a2b37fbcba73f34ee59ebbd4d"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_advanced_gun_kit.png"
+hash = "39b883eb599058ae3a21dcbb86cf405d3c8d2b4637b46e2305bb0d13c236caa9"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_basic_gun_kit.png"
+hash = "f23bedaa935faa48741948beaacb0a42e101289fd1f145f9164dd07cac761536"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/incomplete_complex_gun_kit.png"
+hash = "848c09fc16a50bc8db84c27841df3a547ba6c0a17e0c1e95f7c7b8116f4a4493"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/interdimensional_shard.png"
+hash = "0463e3e90509eb93c902d47b180d7e327864f9539a3de2ab7df35e55ff193ae4"
+
+[[files]]
+file = "kubejs/assets/ponderjs/ponder/afterblazers2.nbt"
+hash = "e6be4aa0eb6a354a3a7aaba8cc6a4cffb73cf86122cfb7988134ba8fe45cfa43"
+
+[[files]]
+file = "kubejs/assets/ponderjs/ponder/ballooners.nbt"
+hash = "41bfe20e3c4e460424037a73f1e82ab4e9f0fa7a6fe20736376c83cac0aa5783"
+
+[[files]]
+file = "kubejs/assets/ponderjs/ponder/combustionengine.nbt"
+hash = "9f66da824fa3b253f7711b3f27e30440a5f9bfe9b59b26c44c84ce35a4a6b9fa"
+
+[[files]]
+file = "kubejs/assets/ponderjs/ponder/flap_bearing3.nbt"
+hash = "b7990f3f99e3ffe0749e3b9d06269fafd1ddda951d1dfc9b4a6fe3b74a72cdc4"
+
+[[files]]
+file = "kubejs/assets/ponderjs/ponder/propellor2_1.nbt"
+hash = "baa9eee17b70d7dfba56c426bbf53bbe34b8abe50629d0bb93f7dc3c375cb902"
+
+[[files]]
+file = "kubejs/assets/ponderjs/ponder/propellor_spinning1.nbt"
+hash = "12f010977ba62db0a5bdd59631cf15c151ef57ee923153e3115669643a6f0cf4"
+
+[[files]]
+file = "kubejs/assets/ponderjs_generated/lang/en_us.json"
+hash = "4fc3bd076051bbefc774447a958c9ab120ab0bca636b8fce86d69f5345d50a96"
+
+[[files]]
+file = "kubejs/client_scripts/ClockworkDescriptions.js"
+hash = "cbc6e70b7aa830c8fcdb85b8fdee2b1d66e6ae8c78caaf702aeebd4716e3a8c9"
+
+[[files]]
+file = "kubejs/client_scripts/ClockworkPonders.js"
+hash = "1ffda1130056087c469a45b9f0d6f2255dfbefa07308ebf362f1d8dd0af64011"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "7fc3ee5d9cdc38bb884c4036bc331535c94629f9c3fa0a128da4f7e249bd30bd"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "136c8abed8d8470f7eb05bf9b0b1fa6b78f51f33f6c5a53dded5fb5e3d56cc10"
+
+[[files]]
+file = "kubejs/config/defaultoptions.txt"
+hash = "de6fd5ed2e0706ec5fc3e4bd7ad29ae40f713d0e9c6781234c26b3ea5e08f7ca"
+
+[[files]]
+file = "kubejs/config/packicon.png"
+hash = "590b2b5363706bc9c2a1783398655315aaba03229a6615d464443595809bf2b8"
+
+[[files]]
+file = "kubejs/server_scripts/guns.js"
+hash = "11597047185e30f366e84ea55a63e9177481844783b12249a1705d42892f3a31"
+
+[[files]]
+file = "kubejs/server_scripts/script.js"
+hash = "3462e95cea98c6ac15be4d9fa26fe8e0255574d3f9b72d413ed8727c60bf1c82"
+
+[[files]]
+file = "kubejs/startup_scripts/script.js"
+hash = "18ba3b4daf85bfa983502df7381af9bfe0058ba6a2c416c195d902188664ebe1"
+
+[[files]]
 file = "mods/VS2_Nightly_Forge.jar"
 hash = "f3f50a1dd877f45438c557151a858fc393ef3436235d7b263da3655858d49bb8"
 
@@ -16,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "b34b776f533880d96779561ce366f446b4a8dfeb833c801e5d6c18f0b507463e"
+hash = "d72829dc68719faf876e05788bfbd47f876734cbb3b74c8a594976b2eda18214"
 metafile = true
 
 [[files]]
@@ -294,7 +390,7 @@ metafile = true
 
 [[files]]
 file = "mods/custom-player-models.pw.toml"
-hash = "74aefa3dfbd3f9d484f1658cf87c91475d12f3a6f1b1752258456c446436938a"
+hash = "e307c611dcbaf9e89cedbcbf31b47dce72472acb0dca3c9c131947403f98862a"
 metafile = true
 
 [[files]]

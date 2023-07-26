@@ -15,6 +15,11 @@ hash = "0186e7f4f8fd2796123df62c8e6ac869b189df6beb7a601f9a5c825f0464292e"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "b34b776f533880d96779561ce366f446b4a8dfeb833c801e5d6c18f0b507463e"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "33a14f96c097b8593b454b4aa16f4339b40ea7b9fe767a68b5df9e9c3872f001"
 metafile = true

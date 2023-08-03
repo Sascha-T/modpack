@@ -444,6 +444,16 @@ hash = "c0e2bf268b415c2ba72f743e42624aaff4000aa301b597cbf0355adc35594b83"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-block-entities-reforged-unofficial.pw.toml"
+hash = "febde3c1e20d5dd4a4fed121c4d185c475a85af46633625859d79db830c630c4"
+metafile = true
+
+[[files]]
+file = "mods/entity-collision-fps-fix.pw.toml"
+hash = "ab799aeda7413bcb31c2119de91f50833168badc173df42a8476aa7f11fc5dd3"
+metafile = true
+
+[[files]]
 file = "mods/essential-mod.pw.toml"
 hash = "8dd5e0db0f143bbac9668e7ea98852ddd2a35fc222023aa1d11c0c569fd79ff0"
 metafile = true

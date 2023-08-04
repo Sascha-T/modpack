@@ -181,6 +181,16 @@ hash = "7241f3d873b2856258856d9c0601aa5438428d95317227d726bc4c451c51a7fa"
 metafile = true
 
 [[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "a18604cb3cb735f5c2490713a286c97ae030b7e616ef8d445f25e3c336ea3847"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "757b33b4bcabfc1b00a945204fd08e5c3173a13400a1f2e83cb7f5d40f811d9f"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
@@ -228,6 +238,11 @@ metafile = true
 [[files]]
 file = "mods/clockwork-forge-9d71707e9c1442328ec42ca7043ad10fac6071d7.jar"
 hash = "4921bcffd0620755bb266f633a7a253ac7e119a77d798ccc72b6149c8fdf0545"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "dd37f8dd2520e55ca2d3c85d92de682c31e4fdedea64a090bca80e1f0d3fd80a"
+metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
@@ -534,6 +549,11 @@ hash = "c4babd9244a155a23d10b0f73a1823908897eb0144c830ccf440064817216c55"
 metafile = true
 
 [[files]]
+file = "mods/grappling-hook-mod.pw.toml"
+hash = "be1db33a292458ca7b76f40bfd54600d74973ccaedc4394541e9f21d2e350319"
+metafile = true
+
+[[files]]
 file = "mods/hostile-neural-networks.pw.toml"
 hash = "b004d1b469a550d0b3a8c77010cf47f7cc2d93dc1847dc87e67eab55b6172a9a"
 metafile = true
@@ -561,6 +581,11 @@ metafile = true
 [[files]]
 file = "mods/iris-flywheel-compat.pw.toml"
 hash = "7fd6bc3e0bc4c45ca6ba8beef3c66393f9d3643d51e0dfc3c302703e2b221f46"
+metafile = true
+
+[[files]]
+file = "mods/itemchat.pw.toml"
+hash = "d3e2bf749441409418a213b999df744b011cc12ad843221b025a8de7ab0d3e9e"
 metafile = true
 
 [[files]]

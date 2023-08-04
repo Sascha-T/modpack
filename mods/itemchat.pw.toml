@@ -1,0 +1,13 @@
+name = "ItemChat"
+filename = "itemchat-1.2-1.18.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "642f6b1812036ff546201bf6441c30819f843eb2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3898001
+project-id = 514116

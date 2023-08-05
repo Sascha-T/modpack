@@ -1,0 +1,13 @@
+name = "Create Sifting"
+filename = "createsifter-1.18.2-1.4.0.i.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a8d46649243d8f667f0f3d89dbdfbb8414dcac7f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4379720
+project-id = 661938

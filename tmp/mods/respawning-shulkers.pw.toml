@@ -1,0 +1,13 @@
+name = "Respawning Shulkers"
+filename = "respawningshulkers-1.18.2-3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f84a8a214fb9da29e11f1304507cd8f75708a48"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4430745
+project-id = 450144

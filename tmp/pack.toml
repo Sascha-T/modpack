@@ -1,0 +1,11 @@
+name = "Clockworker_SMP54545"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "60dc0154c164b6af1d3fc7d83b20edb0be4c933e6a611a7328d938367beaf95d"
+
+[versions]
+forge = "40.2.10"
+minecraft = "1.18.2"

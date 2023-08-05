@@ -910,7 +910,7 @@ metafile = true
 
 [[files]]
 file = "mods/translate.pw.toml"
-hash = "906d9586f2afdc8a5876ef7c6330174971fa7d6bacb35b24db6b73bc09c39f25"
+hash = "cda1cb37db14c2543092af60d138e5f1775c1187275495e62a14f8ba9ceee8e3"
 metafile = true
 
 [[files]]

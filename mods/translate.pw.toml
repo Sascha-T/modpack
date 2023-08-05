@@ -1,6 +1,6 @@
 name = "Translate"
 filename = "translate-2.0.jar"
-side = "true"
+side = "client"
 
 [download]
 hash-format = "sha1"

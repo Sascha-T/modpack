@@ -956,15 +956,3 @@ metafile = true
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "2eae47e79517a349e5c76ab4228254d1cbebcdaeb32ee1ee69026b888caaf970"
 metafile = true
-
-[[files]]
-file = "tmp/Clockworker_SMP54545.zip"
-hash = "9d7974bb2a90bcfdb5b908cfc7c1eb284f6999428723b278d8df58f78d6216f9"
-
-[[files]]
-file = "tmp/config/byg/backups/last_working_configs_backup.zip"
-hash = "8e0db130eddf48d38f40317782ef0bebf8a1611af58af7ce2c6a887032412ee5"
-
-[[files]]
-file = "tmp/resourcepacks/Quark Programmer Art.zip"
-hash = "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d"

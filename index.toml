@@ -719,6 +719,11 @@ hash = "eab360710dfebe9b6f7f5c260acfc8275663db2245c85a1e436a78d8e7531dd5"
 metafile = true
 
 [[files]]
+file = "mods/mrcrayfishs-gun-mod.pw.toml"
+hash = "3c039f216acdcfb6e21e09f157bcde98a3f47f81280612fbe26e530cab7a1083"
+metafile = true
+
+[[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "426f0d35175570a187ae2bad9d9cd33690e1354f59f738b408e93702afc62565"
 metafile = true

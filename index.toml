@@ -535,7 +535,7 @@ metafile = true
 
 [[files]]
 file = "mods/flywheel.pw.toml"
-hash = "90139a5b885c66756095b4338797031c2f0b167d0b08b33412fae4366f3537a5"
+hash = "6ecc85588f59802658278306802fe5617c282392bbfc6a229ddc430d66e98548"
 metafile = true
 
 [[files]]
@@ -762,6 +762,10 @@ metafile = true
 file = "mods/paucal.pw.toml"
 hash = "2f745271922048aca171a9a974b020c5ab57c686a0281d7ba60d4214cb521c9a"
 metafile = true
+
+[[files]]
+file = "mods/performant-1.18.2-7.2.jar"
+hash = "5c6792d9e2f1e8a2f83b00e9866b3b1a88bdab2f41f1133705a9ff0d69707010"
 
 [[files]]
 file = "mods/placebo.pw.toml"

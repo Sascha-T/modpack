@@ -1,6 +1,6 @@
 name = "Translate"
 filename = "translate-2.0.jar"
-side = "both"
+side = "true"
 
 [download]
 hash-format = "sha1"
@@ -11,3 +11,8 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 3951212
 project-id = 664584
+
+[option]
+optional = true
+description = "google translate the minecraft chat"
+default = false

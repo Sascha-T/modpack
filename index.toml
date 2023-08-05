@@ -485,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-block-entities-reforged-unofficial.pw.toml"
-hash = "febde3c1e20d5dd4a4fed121c4d185c475a85af46633625859d79db830c630c4"
+hash = "414a452ed361110a071b2facb7cfd185d54d1366b8e06d8fc06a90bf0a360276"
 metafile = true
 
 [[files]]
@@ -725,7 +725,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "fad0e1c59d0548afbcbe2e34d25fbf97cf4c6effe40b3f7e2b93dd5c546ee601"
+hash = "e06240634ffc0160925d15dc99c0f6d765c04bc303fb118d76c2f6cac38eed69"
 metafile = true
 
 [[files]]
@@ -795,7 +795,7 @@ metafile = true
 
 [[files]]
 file = "mods/reauth.pw.toml"
-hash = "ddd9b4bd28d0c422945e0e74bb1137920b6c44bf911c74f97f4731ac3b981227"
+hash = "c3777d9544a0d36f4b5ee1a3404348459aea4d91e1c79ef39df86f2cbc53ec3c"
 metafile = true
 
 [[files]]
@@ -810,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/reforgium.pw.toml"
-hash = "ecb5c76fefc69500c004cabf055a7b1755817bbd3e4a5b24a79a55cc549099f4"
+hash = "1015854e7a96ed022e656256d5b1e9fb4d92593ee39aaa9ede8beba79afff498"
 metafile = true
 
 [[files]]
@@ -910,7 +910,7 @@ metafile = true
 
 [[files]]
 file = "mods/translate.pw.toml"
-hash = "96d25febb626287b44629ea3b9023d3991a97da78fbce5e4d3134ec578cc5f38"
+hash = "906d9586f2afdc8a5876ef7c6330174971fa7d6bacb35b24db6b73bc09c39f25"
 metafile = true
 
 [[files]]

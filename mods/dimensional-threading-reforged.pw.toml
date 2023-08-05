@@ -1,6 +1,6 @@
 name = "Dimensional Threading Reforged (Unofficial)"
 filename = "Dimensional-Threading-Reforged-1.18.2-1.2.8.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"

@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/jekyll-gh-pages.yml"
-hash = "cba53948a0e3544fa32b2494abcda6a2372727bac37b824634de94f80e6c91de"
-
-[[files]]
 file = "README.md"
 hash = "eeb4d4807142eaa55cf67ad7bd5b7bab5cf6c8739c23d4c5654875031afb7cfc"
 

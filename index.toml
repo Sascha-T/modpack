@@ -311,11 +311,6 @@ hash = "653c2fe6ac5d69f121e4c3feb29f54591f9e2938bb8b297f215b37eac8430456"
 metafile = true
 
 [[files]]
-file = "mods/create-alloyed-guns.pw.toml"
-hash = "2611cfd2e40a030fee2fadbe9997aab07a296b9d9ec77803019ab3f53291dadb"
-metafile = true
-
-[[files]]
 file = "mods/create-alloyed.pw.toml"
 hash = "d57c4d6b85d34fbfe76cc50e5aa4a2f2d8e821a6b4b55a982a5388efdf954c31"
 metafile = true

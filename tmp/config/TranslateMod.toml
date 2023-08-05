@@ -1,7 +1,0 @@
-
-[TranslateMod]
-	#Google Apps Script URL
-	GAS = "https://script.google.com/macros/s/AKfycbzlQDAjHBncfxZZo7rUCj1eb4rys8FZyr59ievvz6Y_1kryMBlwd7I8Js819m-iF4c6/exec"
-	#Translate Command
-	CMD = "/translate "
-

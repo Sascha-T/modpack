@@ -434,11 +434,6 @@ hash = "25264330b2befcd47c343bdfe0106af7d4b4c777f6c306e7aa7cebebd8e33ee6"
 metafile = true
 
 [[files]]
-file = "mods/dimensional-threading-reforged.pw.toml"
-hash = "1f9fce11114bf0937bd86b7fc5fc688b6e2c1b8f38d552640a98e7de273cbae5"
-metafile = true
-
-[[files]]
 file = "mods/disenchantingforge.pw.toml"
 hash = "9e505fb19907a39fadc64eea421aa18cc0cf0b75cb3469f82ae4b825bf2ec2b6"
 metafile = true
